@@ -1,22 +1,11 @@
 {
   "name": "القرآن الكريم",
   "short_name": "القرآن",
+  "description": "تطبيق القرآن الكريم: نص كامل، تلاوة صوتية، بحث، و آية اليوم.",
   "start_url": "/quran/",
   "display": "standalone",
   "background_color": "#f8f5ee",
   "theme_color": "#0d9488",
   "lang": "ar",
-  "dir": "rtl",
-  "icons": [
-    {
-      "src": "https://khalidtt88.github.io/quran/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "https://khalidtt88.github.io/quran/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+  "dir": "rtl"
 }
